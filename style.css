@@ -44,5 +44,8 @@ body{
     bottom: 0;
     right: 0;
     left: 0;
+}
 
+p{
+    font-size: 7px;
 }
